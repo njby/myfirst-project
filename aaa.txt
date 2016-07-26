@@ -1,0 +1,10 @@
+.
+├── aaa.txt
+├── hello1.cfg
+├── hello2.htm
+├── hello3.c
+├── hello.txt
+├── LICENSE
+└── README.md
+
+0 directories, 7 files
